@@ -8,7 +8,7 @@
  
 _“What would life be if we had no courage to attempt anything?” - Vincent Van Gogh_
 
-<img align="right" width=300px alt="Me" border-radius="50px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0a2pmZWV6aGk1cmhhanBhOXZuOHp3d2tmbmo3dnhwZmJlZzBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
+<img align="right" width=200px alt="Me" border-radius=50px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0a2pmZWV6aGk1cmhhanBhOXZuOHp3d2tmbmo3dnhwZmJlZzBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 
 
 I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Aungular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
