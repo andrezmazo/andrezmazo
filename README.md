@@ -5,10 +5,11 @@
 -->
 _“What would life be if we had no courage to attempt anything?” - Vincent Van Gogh_
 <br/>
+
 <img align="right" width=200px alt="Me" style="border-radius: 100px;"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0a2pmZWV6aGk1cmhhanBhOXZuOHp3d2tmbmo3dnhwZmJlZzBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
 
 ## About me
-<br/>
+
 I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Aungular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
 
 ✨**I am interested in Full stack, Front End, Back End, Data Science**✨
@@ -22,7 +23,6 @@ I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript,
 
 ### Reach out to me at:
 
-<br/>
 📫 <a href="mailto:andrez.mazo@gmail.com">andrez.mazo@gmail.com</a>
 <br/>
 
