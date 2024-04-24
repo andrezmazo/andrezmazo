@@ -11,7 +11,7 @@
 
 ## About me
 
-I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Aungular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
+I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Angular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
 
 ✨**I am interested in Full stack, Front End, Back End, Data Science**✨
 
