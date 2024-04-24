@@ -1,8 +1,8 @@
 # Hi there 👋, Andrés here.
-<br/>
 <!--
 **andrezmazo/andrezmazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br/>
  _“What would life be if we had no courage to attempt anything?” - Vincent Van Gogh_
 <br/>
 
