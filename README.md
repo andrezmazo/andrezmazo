@@ -1,5 +1,3 @@
-
-
 # Hi there 👋, Andrés here.
 <br>
 <!--
@@ -22,7 +20,7 @@ I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript,
 - 🏁 Outside tech, 🎵 I like to make music, give it a listen 🦧  <a style="italic" href="https://open.spotify.com/intl-es/artist/7srZcgiwUcpVzUV5mMzrr1?si=0bIN9JekTLOQ2HIqm1idRA">Gorangután's Spotify</a>
 .
 <br>
-### Reach out to me at:
+## Reach out to me at:
 <br>
 📫 <a href="mailto:andrez.mazo@gmail.com">andrez.mazo@gmail.com</a>
 <br>
