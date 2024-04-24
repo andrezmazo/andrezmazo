@@ -3,7 +3,7 @@
 <!--
 **andrezmazo/andrezmazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-_“What would life be if we had no courage to attempt anything?” - Vincent Van Gogh_
+ _“What would life be if we had no courage to attempt anything?” - Vincent Van Gogh_
 <br/>
 
 <img align="right" width=200px alt="Me" style="border-radius: 100px;"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk0a2pmZWV6aGk1cmhhanBhOXZuOHp3d2tmbmo3dnhwZmJlZzBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" />
