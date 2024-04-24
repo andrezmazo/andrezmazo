@@ -12,7 +12,8 @@ _“What would life be if we had no courage to attempt anything?” - Vincent Va
 <br>
 I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Aungular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
 
-* ✨*_I am interested in Full stack, Front End, Back End, Data Science_**✨
+✨**_I am interested in Full stack, Front End, Back End, Data Science_**✨
+
 - 🔥 Main languages: Javascript, React, NodeJs, HTML, CSS, Docker and MySQL
 - 🌱 I’m currently learning: Java, AWS 
 - ⚡ I’m looking forward to collaborate on new projects.
