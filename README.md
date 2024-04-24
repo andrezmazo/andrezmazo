@@ -11,7 +11,7 @@ _“What would life be if we had no courage to attempt anything?” - Vincent Va
 <br/>
 I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript, React, PHP, Aungular, NodeJs, HTML, Docker and MySQL. I love to learn and build something new.
 
-✨**_I am interested in Full stack, Front End, Back End, Data Science_**✨
+✨**I am interested in Full stack, Front End, Back End, Data Science**✨
 
 - 🔥 Main languages: Javascript, React, NodeJs, HTML, CSS, Docker and MySQL
 - 🌱 I’m currently learning: Java, AWS 
@@ -19,7 +19,9 @@ I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript,
 - 📓 English Level B2, currently studying to achieve C1. 
 - 🏁 Outside tech, 🎵 I like to make music, give it a listen 🦧  <a style="italic" href="https://open.spotify.com/intl-es/artist/7srZcgiwUcpVzUV5mMzrr1?si=0bIN9JekTLOQ2HIqm1idRA">Gorangután's Spotify</a>
 <br/>
+
 ## Reach out to me at:
+
 <br/>
 📫 <a href="mailto:andrez.mazo@gmail.com">andrez.mazo@gmail.com</a>
 <br/>
