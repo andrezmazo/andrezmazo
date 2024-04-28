@@ -45,6 +45,8 @@ I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript,
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
+![GoogleAPI](https://img.shields.io/badge/Google%20API-4285F4?style=flat-square&logo=google&logoColor=ffffff)
+![APIRest](https://img.shields.io/badge/API%20Rest-000000?style=flat-square&logo=rest&logoColor=ffffff)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-000000?style=flat-square&logo=dbeaver&logoColor=ffffff)
 ![Database](https://img.shields.io/badge/-Database-003B57?style=flat-square&logo=database&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
