@@ -20,7 +20,7 @@ I am an Sound Engineer and Full Stack Developer. I'm currently using Javascript,
 - ⚡ I’m looking forward to collaborate on new projects.
 - 📓 English Level B2, currently studying to achieve C1. 
 - 🏁 Outside tech, 🎵 I like to make music, give it a listen 🦧  <a style="italic" href="https://open.spotify.com/intl-es/artist/7srZcgiwUcpVzUV5mMzrr1?si=0bIN9JekTLOQ2HIqm1idRA">Gorangután's Spotify</a>
-- 👽 Want more, see my portfolio  <a style="italic" href="https://andrezmazo.github.io/portfolio/">Personal portfolio :)</a>
+- 👽 Want more?, see my portfolio  <a style="italic" href="https://andrezmazo.github.io/portfolio/">Personal portfolio :)</a>
 <br/>
 
 ## Languages and tools
